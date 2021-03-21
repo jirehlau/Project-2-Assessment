@@ -2,7 +2,7 @@
 
 <h2>Form</h2>
 
-<img src="public/images/toDoEmpty.png" alt="todoForm">
+<img src="assets/toDoEmpty.png" alt="todoForm">
 
 <h2>Filled Form</h2>
 
