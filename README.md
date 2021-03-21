@@ -1,7 +1,8 @@
 # Project-2-Assessment
 
 <h2>Form</h2>
-<img src="/public/images/toDoEmpty.png" alt="todoForm">
+
+<img src="public/images/toDoEmpty.png" alt="todoForm">
 
 <h2>Filled Form</h2>
 
