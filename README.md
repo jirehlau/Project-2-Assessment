@@ -6,9 +6,9 @@
 
 <h2>Filled Form</h2>
 
-![Filled Form](public/images/todoFilled.png)
+![Filled Form](assets/todoFilled.png)
 
 
 <h2>Submitted Form</h2>
 
-![Submitted Form](public/images/toDoSubmitted.png)
+![Submitted Form](assets/toDoSubmitted.png)
